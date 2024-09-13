@@ -1,0 +1,2 @@
+This is a secret file that will be separated in n parts.
+The reconstruction of the file should give the same content as the original file.
